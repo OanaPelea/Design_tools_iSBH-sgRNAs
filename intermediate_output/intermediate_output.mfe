@@ -1,0 +1,64 @@
+% NUPACK 3.2.2
+% Program: mfe
+% Start time: Thu May 25 14:36:23 2023
+% Command: mfe -material rna intermediate_output/intermediate_output 
+% Sequence:  CTTTGACTCCTCAAACAGAATTAAGCATTGTCCATCTCCCCTTCCAGAGACTGGGTCTTCTTTGTATCCCTCACACTCAGCTGAGGGCCTGGAGCAATGGAGATACTCAAAAAGCCCTCAAGAATGAAGGGAGGGATGAATATTATATGAGATAAGAAGCAAGAAAACGTGATTCCTGACACA
+% v(pi): 1
+% Parameters: RNA, 1995
+% Dangles setting: 1
+% Temperature (C): 37.0
+% Sodium concentration: 1.0000 M
+% Magnesium concentration: 0.0000 M
+
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% %
+183
+-37.900
+.(((((....)))))................(((((((........)))).)))..((((((..((((((((.(..(((.((((((((...(((...((....))))).....))))))).)..)))..)))))))))...............)))))).........(((........))).
+2	15
+3	14
+4	13
+5	12
+6	11
+32	54
+33	53
+34	52
+35	50
+36	49
+37	48
+38	47
+57	159
+58	158
+59	157
+60	156
+61	155
+62	154
+65	138
+66	137
+67	136
+68	135
+69	134
+70	133
+71	132
+72	131
+74	130
+77	127
+78	126
+79	125
+81	122
+82	120
+83	119
+84	118
+85	117
+86	116
+87	115
+88	114
+92	108
+93	107
+94	106
+98	105
+99	104
+169	182
+170	181
+171	180
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% %
+

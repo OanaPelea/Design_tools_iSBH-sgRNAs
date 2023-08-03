@@ -1,0 +1,5 @@
+G1c_SL14_iSBH_giraffe TGCTTCGCTAGTCGCTTCTGTCCGTACGTTCACACTACGCATCCAACTGACGTTCAGTCGCGTGTAGCGAAGCA ((((((((((..(((..(((..(((..(((..............)))..)))..)))..)))..)))))))))) -24.8
+G2c_SL14_iSBH_giraffe AGGACAGTACAGCGAGATACCAGCTTAGTCGAACATCCCTAACAGACATAGCCCGTAAGTCGGAGTACTGTCCT ((((((((((..(((..(((..(((..(((..............)))..)))..)))..)))..)))))))))) -23.1
+G3c_SL14_iSBH_giraffe GAGGCGGGAAGTATGGAATGAGTGGGATGGGACCAGTGAATACACCAAACCAGACATGACATTATTCCCGCCTC ((((((((((..(((..(((..(((..(((..............)))..)))..)))..)))..)))))))))) -28.4
+G4c_SL14_iSBH_giraffe TCCTGCTAGTACTTAAATGGAACAGCTGTCGCTCCCCACATCAAGACTTCTGACCCAGGTAATGACTAGCAGGA ((((((((((..(((..(((..(((..(((..............)))..)))..)))..)))..)))))))))) -24.7
+G5c_SL14_iSBH_giraffe GACTCTTACTCCAGTTCTGCCGAGGTAGCTATCTTGTTCGTCCAAGCGTCCTGAGCACTACTTCAGTAAGAGTC ((((((((((..(((..(((..(((..(((..............)))..)))..)))..)))..)))))))))) -23.0

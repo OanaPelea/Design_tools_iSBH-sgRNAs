@@ -1,0 +1,51 @@
+G1c_SL14_iSBH_giraffe_full_length_iSBH_FW (no restriction sites): CTGCTTCGCTAGTCGCTTCTGTCCGTACGTTCACACTACGCATCCAACTGACGTTCAGTCGCGTGTAGCGAAGCA
+G1c_SL14_iSBH_giraffe_spacer_FW (no restriction sites): CAGTCGCGTGTAGCGAAGCA
+G1c_SL14_iSBH_giraffe_trigger_fw(no restriction sites):GGATGCGTAGTGTGAACGTACGGACAGAAGCGACTAGCGAAGCA
+G1c_SL14_iSBH_giraffe_CTS_fw(no restriction sites):CAGTCGCGTGTAGCGAAGCAAGG
+
+
+G2c_SL14_iSBH_giraffe_full_length_iSBH_FW (no restriction sites): CAGGACAGTACAGCGAGATACCAGCTTAGTCGAACATCCCTAACAGACATAGCCCGTAAGTCGGAGTACTGTCCT
+G2c_SL14_iSBH_giraffe_spacer_FW (no restriction sites): GTAAGTCGGAGTACTGTCCT
+G2c_SL14_iSBH_giraffe_trigger_fw(no restriction sites):TGTTAGGGATGTTCGACTAAGCTGGTATCTCGCTGTACTGTCCT
+G2c_SL14_iSBH_giraffe_CTS_fw(no restriction sites):GTAAGTCGGAGTACTGTCCTAGG
+
+
+G3c_SL14_iSBH_giraffe_full_length_iSBH_FW (no restriction sites): CGAGGCGGGAAGTATGGAATGAGTGGGATGGGACCAGTGAATACACCAAACCAGACATGACATTATTCCCGCCTC
+G3c_SL14_iSBH_giraffe_spacer_FW (no restriction sites): CATGACATTATTCCCGCCTC
+G3c_SL14_iSBH_giraffe_trigger_fw(no restriction sites):TGTATTCACTGGTCCCATCCCACTCATTCCATACTTCCCGCCTC
+G3c_SL14_iSBH_giraffe_CTS_fw(no restriction sites):CATGACATTATTCCCGCCTCAGG
+
+
+G4c_SL14_iSBH_giraffe_full_length_iSBH_FW (no restriction sites): CTCCTGCTAGTACTTAAATGGAACAGCTGTCGCTCCCCACATCAAGACTTCTGACCCAGGTAATGACTAGCAGGA
+G4c_SL14_iSBH_giraffe_spacer_FW (no restriction sites): CCAGGTAATGACTAGCAGGA
+G4c_SL14_iSBH_giraffe_trigger_fw(no restriction sites):TTGATGTGGGGAGCGACAGCTGTTCCATTTAAGTACTAGCAGGA
+G4c_SL14_iSBH_giraffe_CTS_fw(no restriction sites):CCAGGTAATGACTAGCAGGAAGG
+
+
+G5c_SL14_iSBH_giraffe_full_length_iSBH_FW (no restriction sites): CGACTCTTACTCCAGTTCTGCCGAGGTAGCTATCTTGTTCGTCCAAGCGTCCTGAGCACTACTTCAGTAAGAGTC
+G5c_SL14_iSBH_giraffe_spacer_FW (no restriction sites): GCACTACTTCAGTAAGAGTC
+G5c_SL14_iSBH_giraffe_trigger_fw(no restriction sites):TGGACGAACAAGATAGCTACCTCGGCAGAACTGGAGTAAGAGTC
+G5c_SL14_iSBH_giraffe_CTS_fw(no restriction sites):GCACTACTTCAGTAAGAGTCAGG
+
+
+
+
+##################################################################################################################
+
+The following sequences have been designed according to your input specifications:
+     Total iSBH length: 74
+     Spacer length: 20
+     Giraffe extension length: 10
+     Loop length:14
+     Giraffe extension* length: 10
+     Spacer* length: 20
+     You have an additional C at the beginning of your spacer* sequence
+     For iSBHs, spacers (BUT NO triggers!!!) that do not start with G, an extra G has been added at the beginning of the sequence to facilitate transcription from U6 promoter
+     Trigger length:44
+     Selected PAM site for the 1X CTS sequence: AGG
+     iSBH oligos are ready to be cloned in pcDNA3.1-U6_sgRNA_6xT-SV40_iBue_PA (BbsI restriction sites)
+     spacer oligos are ready to be cloned in pcDNA3.1-U6_sgRNA_6xT-SV40_iBue_PA (BbsI restriction sites)
+     trigger oligos are ready to be cloned in U6-TM2Emp-6T_iBlue (BbsI restriction sites)
+     CTS oligos are ready to be cloned in p035_pause-HBG-CFP-pA (XbaI and AscI restriction sites)
+##################################################################################################################
+
