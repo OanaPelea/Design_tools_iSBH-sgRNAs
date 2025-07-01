@@ -8,7 +8,7 @@ MODesign is a four‑script pipeline that helps you design modular iSBH‑sgRNA 
 Finds spacer / spacer* pairs that fold into the desired mini‑hairpin. Run first.
 
 **Script_1b_MODesign.py**  
-Combines a chosen spacer pair with your RNA trigger(s) to build modular iSBH‑sgRNA designs. Code also gives you the option to select desired sizes lor the iSBH-sgRNA loop.
+Combines a chosen spacer pair with your RNA trigger(s) to build modular iSBH‑sgRNA designs. Code also gives you the option to select desired sizes for the iSBH-sgRNA loop.
 
 **Script_2_MODesign_scoring_algorithm.py**  
 Scores and ranks designs so you can pick the most promising ones for wet‑lab testing.
