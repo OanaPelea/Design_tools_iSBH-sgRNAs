@@ -1,6 +1,10 @@
 # MODesign – iSBH‑sgRNA Design Toolkit
 
-MODesign is a four‑script pipeline that helps you design modular iSBH‑sgRNA sensors, rank the best candidates and generate cloning‑ready iSBH-sgRNA oligos.
+MODesign is a four‑script pipeline that helps you design modular iSBH‑sgRNA sensors, rank the best candidates and generate cloning‑ready iSBH-sgRNA oligos. These scripts are associated with the publication:
+
+# Specific Modulation of CRISPR Transcriptional Activators through RNA-Sensing Guide RNAs in Mammalian Cells and Zebrafish Embryos
+ Oana Pelea, Sarah Mayes, Quentin R.V. Ferry, Tudor A. Fulga, Tatjana Sauka-Spengler
+eLife. https://doi.org/10.7554/eLife.87722.2 
 
 ## Scripts
 
