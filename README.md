@@ -4,7 +4,7 @@ MODesign is a four‑script pipeline that helps you design modular iSBH‑sgRNA 
 
 # Specific Modulation of CRISPR Transcriptional Activators through RNA-Sensing Guide RNAs in Mammalian Cells and Zebrafish Embryos
  Oana Pelea, Sarah Mayes, Quentin R.V. Ferry, Tudor A. Fulga, Tatjana Sauka-Spengler
-eLife. https://doi.org/10.7554/eLife.87722.2 
+eLife2025;12:RP87722 DOI: https://doi.org/10.7554/eLife.87722.3
 
 ## Scripts
 
